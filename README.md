@@ -1,5 +1,15 @@
 # 💫 About Me:
-## About Me<br><br>Hello! I'm Talal Al Aidarus, a passionate software engineering student currently in my final year at the University of Technology and Applied Sciences (UTAS) in Oman. I have a keen interest in web development, database management, and competitive programming.<br><br>🔭 I’m currently working on<br>- **Pathfinder**: An AI-based system designed to provide career guidance to students aged 15 to 16, helping them choose the right career path based on their skills, hobbies, interests, and academic performance.<br>- **Various Python Projects**: Including games and utilities.<br><br>👯 I’m looking to collaborate on<br>- **Open-source projects** related to web development and machine learning.<br>- **Innovative tech solutions** and tools that solve real-world problems.<br><br>🤝 I’m looking for help with<br>- **Advanced algorithms** and data structures for competitive programming.<br>- **Integrating machine learning models** into web applications.<br><br>🌱 I’m currently learning<br>- **React**: Diving deeper into front-end development with React.js.<br>- **Machine Learning**: Exploring new techniques and tools in ML to apply in real-world scenarios.<br><be>⚡ Fun fact<br>- I once participated in a programming competition with over 49 teams and secured a top 3 spot!<br><br>Thank you for visiting my GitHub profile!<br>
+## About Me<br><br>Hello! I'm Talal Al Aidarus, a passionate software engineering student currently in my final year at the University of Technology and Applied Sciences (UTAS) in Oman. I have a keen interest in web development, database management, and competitive programming.
+<br><be>
+🔭 I’m currently working on<br>- **Pathfinder**: An AI-based system designed to provide career guidance to students aged 15 to 16, helping them choose the right career path based on their skills, hobbies, interests, and academic performance.<br>- **Various Python Projects**: Including games and utilities.
+<br><be>
+👯 I’m looking to collaborate on<br>- **Open-source projects** related to web development and machine learning.<br>- **Innovative tech solutions** and tools that solve real-world problems.
+<br><be>
+🤝 I’m looking for help with<br>- **Advanced algorithms** and data structures for competitive programming.<br>- **Integrating machine learning models** into web applications.
+<br><be>
+🌱 I’m currently learning<br>- **React**: Diving deeper into front-end development with React.js.<br>- **Machine Learning**: Exploring new techniques and tools in ML to apply in real-world scenarios.
+<br><be>
+⚡ Fun fact<br>- I once participated in a programming competition with over 49 teams and secured a top 3 spot!<br><br>Thank you for visiting my GitHub profile!<br>
 
 
 🌐 Socials:
