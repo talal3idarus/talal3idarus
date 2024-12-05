@@ -12,7 +12,7 @@
 ### **Full-Stack Development**: Building web applications from the ground up using front-end and back-end technologies.<br>**Machine Learning**: Exploring new techniques and tools in ML to apply in real-world scenarios.<br><br>
 
 ## Fun fact<br>
-### I once participated in a programming competition with over 49 teams and secured a top 3 spot!<br><br>Thank you for visiting my GitHub profile!<br>
+### I once participated in a programming competition with over 49 teams and secured a top 3 spot!<br><br>Thank you for visiting my GitHub profile!<br><br><br>
 
 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/talal3idarus/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/talal-al-aidarus-962a60276) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@talal3idarus) 
