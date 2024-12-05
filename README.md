@@ -14,7 +14,7 @@
 ## Fun fact<br>
 ### I once participated in a programming competition with over 49 teams and secured a top 3 spot!<br><br>Thank you for visiting my GitHub profile!<br><br><br>
 
-## 🌐 Socials:<br><br>
+## 🌐 Socials:<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/talal3idarus/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talal-al-aidarus-962a60276/?originalSubdomain=om) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCzOK72L-JTelK85jeMlXQrQ) 
 
 💻 Tech Stack:
