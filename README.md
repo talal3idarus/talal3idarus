@@ -2,7 +2,7 @@
 ## Hello! I'm Talal Al Aidarus, a passionate software engineering student currently in my final year at the University of Technology and Applied Sciences (UTAS) in Oman. My interests span web development, database management, and competitive programming.<br><br>
 
 ## I’m currently working on:<br>
-### **Pathfinder**: An AI-based system designed to provide career guidance to students aged 15 to 16, helping them choose the right career path based on their skills, hobbies, interests, and academic performance.<br>
+### **Pathfinder**: An Web-based system designed to provide career guidance to students aged 15 to 16, helping them choose the right career path based on their skills, hobbies, interests, and academic performance.<br>
 ### **Various Python Projects**: Including games and utilities.<br><br>
 
 
