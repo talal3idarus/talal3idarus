@@ -2,7 +2,9 @@
 
 # 👋 Hi there, I'm Talal Al Aidarus
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer;Competitive+Programmer;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+## 🎓 **Final-Year Software Engineering Student | AI & Web Development Enthusiast | IEEE Published Researcher**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer;Competitive+Programmer;Machine+Learning+Enthusiast;IEEE+Published+Researcher;Open+Source+Contributor" alt="Typing SVG" />
 
 <br>
 
@@ -25,19 +27,39 @@
 
 ---
 
-## 🔥 Current Projects
+## 🔥 Featured Projects
 
 <div align="center">
 
 ### 🎯 **Pathfinder** - Career Guidance System
-![Pathfinder](https://img.shields.io/badge/Pathfinder-Career%20Guidance%20System-blue?style=for-the-badge&logo=compass&logoColor=white)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Talal3idarus&repo=Pathfinder&theme=tokyonight)](https://github.com/Talal3idarus/Pathfinder)
 
 > A comprehensive web-based system designed to provide career guidance to students aged 15-16, helping them choose the right career path based on their skills, hobbies, interests, and academic performance.
 
-### 🐍 **Python Projects Collection**
-![Python](https://img.shields.io/badge/Python-Projects%20%26%20Games-green?style=for-the-badge&logo=python&logoColor=white)
+### 🏠 **UTAS-hub** - University Management System
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Talal3idarus&repo=UTAS-hub&theme=tokyonight)](https://github.com/Talal3idarus/UTAS-hub)
 
-> Various Python projects including games, utilities, and automation tools.
+> A comprehensive university management system built with modern web technologies for efficient campus operations.
+
+### 🛒 **Home Grocery** - E-commerce Platform
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Talal3idarus&repo=Home-Grocery&theme=tokyonight)](https://github.com/Talal3idarus/Home-Grocery)
+
+> A full-stack e-commerce platform for grocery shopping with modern UI/UX and secure payment integration.
+
+### 💧 **Aqua Sink Pro** - Water Management System
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Talal3idarus&repo=Aqua-Sink-Pro&theme=tokyonight)](https://github.com/Talal3idarus/Aqua-Sink-Pro)
+
+> An innovative water management and conservation system with IoT integration and real-time monitoring.
+
+### 💰 **The Original Prices** - Price Comparison Tool
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Talal3idarus&repo=The-Original-Prices&theme=tokyonight)](https://github.com/Talal3idarus/The-Original-Prices)
+
+> A smart price comparison tool that helps users find the best deals across multiple platforms.
+
+### 🤖 **AI Clustering Project** - Machine Learning
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Talal3idarus&repo=AI-Clustering-Project&theme=tokyonight)](https://github.com/Talal3idarus/AI-Clustering-Project)
+
+> Advanced machine learning project implementing various clustering algorithms for data analysis and pattern recognition.
 
 </div>
 
@@ -57,6 +79,38 @@
 - Meaningful contributions to impactful projects
 - Learning opportunities with experienced developers
 - Building solutions that make a difference
+
+</div>
+
+---
+
+## 🏆 Research & Achievements
+
+<div align="center">
+
+### 📚 **Publications & Awards**
+
+![IEEE](https://img.shields.io/badge/IEEE-Best%20Paper%20Award%202025-gold?style=for-the-badge&logo=ieee&logoColor=white)
+![SITER](https://img.shields.io/badge/SITER-Best%20Research%20Paper%202024-green?style=for-the-badge&logo=researchgate&logoColor=white)
+
+**🏅 Best Paper Award** - IEEE Conference 2025, Malaysia  
+**🏅 Best Research Paper** - SITER Conference 2024, India
+
+### 🏆 **Programming Competition Rankings**
+
+![OCPC](https://img.shields.io/badge/OCPC-Top%20Performer-blue?style=for-the-badge&logo=code&logoColor=white)
+![GPC](https://img.shields.io/badge/GPC-Excellent%20Ranking-green?style=for-the-badge&logo=trophy&logoColor=white)
+![DCPC](https://img.shields.io/badge/DCPC-Strong%20Performance-orange?style=for-the-badge&logo=medal&logoColor=white)
+
+- **OCPC (Oman Competitive Programming Contest)** - Top Performer
+- **GPC (Gulf Programming Contest)** - Excellent Ranking  
+- **DCPC (Developer Competitive Programming Contest)** - Strong Performance
+- **Local University Competitions** - Multiple Top 3 finishes
+
+### 🎓 **Academic Excellence**
+
+![GPA](https://img.shields.io/badge/GPA-3.8%2F4.0-gold?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![Research](https://img.shields.io/badge/Research-2%20Published%20Papers-blue?style=for-the-badge&logo=researchgate&logoColor=white)
 
 </div>
 
@@ -88,14 +142,38 @@
 
 ---
 
+## 🌍 Languages
+
+<div align="center">
+
+![Arabic](https://img.shields.io/badge/Arabic-Native-red?style=for-the-badge&logo=language&logoColor=white)
+![English](https://img.shields.io/badge/English-Proficient-blue?style=for-the-badge&logo=language&logoColor=white)
+
+**Arabic** - Native Speaker  
+**English** - Proficient (Academic & Professional)
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/talal3idarus/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talal-al-aidarus-962a60276/?originalSubdomain=om)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCzOK72L-JTelK85jeMlXQrQ)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Talal3idarus)
+### 📧 **Professional Contact**
+[![Email](https://img.shields.io/badge/Email-talalaidarus@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talalaidarus@gmail.com)
+
+### 🔗 **Social Media & Portfolio**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talal-al-aidarus-962a60276/?originalSubdomain=om)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20my%20work-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Talal3idarus)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20me-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/talal3idarus/)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzOK72L-JTelK85jeMlXQrQ)
+
+### 💼 **For Recruiters & Collaborators**
+- **Email**: talalaidarus@gmail.com
+- **Location**: Oman
+- **Availability**: Open to opportunities
+- **Portfolio**: Coming Soon!
 
 </div> 
 
@@ -148,15 +226,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Talal3idarus&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+### 📈 **Profile Overview**
+<img src="https://github-readme-stats.vercel.app/api?username=Talal3idarus&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_owner=true" alt="GitHub Stats" />
 
-<br>
+### 🔥 **Contribution Streak**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Talal3idarus&theme=tokyonight&hide_border=false&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talal3idarus&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+### 💻 **Most Used Languages**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talal3idarus&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Talal3idarus&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+### 📊 **Weekly Activity**
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Talal3idarus&theme=tokyonight&hide_border=false&layout=compact" alt="Wakatime Stats" />
 
 </div>
 
