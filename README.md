@@ -4,14 +4,6 @@
 
 ## 🎓 **Final-Year Software Engineering Student | AI & Web Development Enthusiast | IEEE Published Researcher**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Developer;Competitive+Programmer;Machine+Learning+Enthusiast;IEEE+Published+Researcher;Open+Source+Contributor" alt="Typing SVG" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Talal3idarus&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
-</div>
-
 ---
 
 ## 🚀 About Me
@@ -33,29 +25,90 @@
 
 ### 🎯 **Pathfinder** - Career Guidance System
 
-> A comprehensive web-based system designed to provide career guidance to students aged 15-16, helping them choose the right career path based on their skills, hobbies, interests, and academic performance.
+> **Tech Stack:** React, Node.js, MongoDB, Express.js  
+> **Target Audience:** Students aged 15-16  
+> **Key Features:** 
+> - Interactive career assessment questionnaire
+> - AI-powered career matching algorithm
+> - Personalized career recommendations
+> - Skills gap analysis and development suggestions
+> - Integration with academic performance data
+> 
+> A comprehensive web-based career guidance platform that helps students make informed decisions about their future by analyzing their skills, interests, hobbies, and academic performance to provide personalized career pathway recommendations.
 
 ### 🏠 **UTAS-hub** - University Management System
 
-
-> A comprehensive university management system built with modern web technologies for efficient campus operations.
+> **Tech Stack:** PHP, MySQL, JavaScript, Bootstrap  
+> **Purpose:** Digital transformation of university operations  
+> **Key Features:**
+> - Student enrollment and registration management
+> - Course scheduling and academic calendar
+> - Faculty and staff management system
+> - Grade management and transcript generation
+> - Library management integration
+> - Financial aid and fee management
+> 
+> A comprehensive digital platform designed to streamline university operations, improve student experience, and enhance administrative efficiency across all campus departments.
 
 ### 🛒 **Home Grocery** - E-commerce Platform
 
-> A full-stack e-commerce platform for grocery shopping with modern UI/UX and secure payment integration.
+> **Tech Stack:** React, Node.js, MongoDB, Stripe API  
+> **Industry:** E-commerce & Retail  
+> **Key Features:**
+> - User authentication and profile management
+> - Product catalog with search and filtering
+> - Shopping cart and wishlist functionality
+> - Secure payment processing (Stripe integration)
+> - Order tracking and delivery management
+> - Admin dashboard for inventory management
+> - Real-time notifications and updates
+> 
+> A modern, responsive e-commerce platform specifically designed for grocery shopping, featuring an intuitive user interface, secure payment processing, and comprehensive order management system.
 
 ### 💧 **Aqua Sink Pro** - Water Management System
 
-
-> An innovative water management and conservation system with IoT integration and real-time monitoring.
+> **Tech Stack:** IoT Sensors, Python, React, Firebase  
+> **Focus:** Environmental Sustainability & Smart Technology  
+> **Key Features:**
+> - Real-time water usage monitoring and analytics
+> - Smart leak detection and alert system
+> - Water quality assessment and reporting
+> - Mobile app for remote monitoring and control
+> - Data visualization and consumption insights
+> - Automated water conservation recommendations
+> - Integration with smart home systems
+> 
+> An innovative IoT-based water management solution that combines hardware sensors with software analytics to help users monitor, analyze, and optimize their water consumption for better environmental sustainability.
 
 ### 💰 **The Original Prices** - Price Comparison Tool
 
-> A smart price comparison tool that helps users find the best deals across multiple platforms.
+> **Tech Stack:** Python, Web Scraping, React, PostgreSQL  
+> **Industry:** E-commerce & Consumer Tools  
+> **Key Features:**
+> - Automated price monitoring across multiple e-commerce platforms
+> - Real-time price alerts and notifications
+> - Historical price tracking and trend analysis
+> - Product comparison with detailed specifications
+> - Price drop predictions using machine learning
+> - User wishlist and favorite products tracking
+> - Mobile-responsive web interface
+> 
+> An intelligent price comparison platform that uses web scraping and data analytics to help consumers find the best deals, track price changes, and make informed purchasing decisions across various online retailers.
 
 ### 🤖 **AI Clustering Project** - Machine Learning
 
-> Advanced machine learning project implementing various clustering algorithms for data analysis and pattern recognition.
+> **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib, Jupyter  
+> **Focus:** Data Science & Machine Learning  
+> **Key Features:**
+> - Implementation of K-Means, Hierarchical, and DBSCAN clustering algorithms
+> - Data preprocessing and feature engineering
+> - Visualization of clustering results and patterns
+> - Performance evaluation using silhouette analysis
+> - Interactive Jupyter notebooks with detailed explanations
+> - Real-world dataset analysis and insights
+> - Comparative analysis of different clustering approaches
+> 
+> A comprehensive machine learning project that demonstrates expertise in unsupervised learning techniques, implementing and comparing various clustering algorithms to identify hidden patterns and structures in complex datasets.
 
 </div>
 
