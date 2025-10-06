@@ -24,21 +24,21 @@
 
 ### 🎯 **Pathfinder** - Career Guidance System
 
-> **Tech Stack:** React, Node.js, MongoDB, Express.js  
-> **Key Features:** AI-powered career matching, interactive assessments, personalized recommendations, skills gap analysis  
+> **Tech Stack:** React, TypeScript, Vite, Firebase, Tailwind CSS, Radix UI  
+> **Key Features:**Course resource sharing, file upload/download, real-time messaging, admin dashboard, user authentication, file approval system, course difficulty rating, search & filtering
 > 
-> A web-based career guidance platform for students aged 15-16 that analyzes their skills, interests, and academic performance to provide personalized career pathway recommendations.
+> A comprehensive AI-powered career guidance platform that helps students aged 15-16 discover their ideal career paths through interactive assessments, skills analysis, and personalized recommendations based on their interests and academic performance.
 
 ### 🏠 **UTAS-hub** - University Management System
 
-> **Tech Stack:** PHP, MySQL, JavaScript, Bootstrap  
-> **Key Features:** Student enrollment, course scheduling, faculty management, grade tracking, library integration  
+> **Tech Stack:** React, TypeScript, Vite, Firebase, Tailwind CSS, Radix UI  
+> **Key Features:** Course resource sharing, file upload/download, real-time messaging, admin dashboard, user authentication, file approval system, course difficulty rating, search & filtering.
 > 
-> A comprehensive digital platform that streamlines university operations including student management, course scheduling, and administrative tasks for enhanced campus efficiency.
+> A comprehensive university course resource management platform that enables students to discover, share, and download course materials (lectures, notes, exams) with advanced search and filtering capabilities, while providing real-time messaging with admin staff, file approval workflows, course difficulty ratings, and a complete admin dashboard for content moderation and user management.
 
 ### 🛒 **Home Grocery** - E-commerce Platform
 
-> **Tech Stack:** React, Node.js, MongoDB, Stripe API  
+> **Tech Stack:** React, Node.js, Firebase, Stripe API  
 > **Key Features:** User authentication, product catalog, secure payments, order tracking, admin dashboard  
 > 
 > A modern e-commerce platform for grocery shopping with intuitive UI, secure payment processing, and comprehensive order management system.
