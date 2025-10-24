@@ -14,24 +14,32 @@
 
 ---
 
-## 🏆 Research & Achievements
+<h2 align="center">🏆 Research & Achievements</h2>
 
 <div align="center">
 
-**🏅 Publications & Awards**
+### 📚 Publications & Awards
 
-![IEEE](https://img.shields.io/badge/IEEE-Best%20Paper%20Award%202025-gold?style=for-the-badge&logo=ieee&logoColor=white)
-![SITER](https://img.shields.io/badge/SITER-Best%20Research%20Paper%202024-green?style=for-the-badge&logo=researchgate&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/IEEE-Best%20Paper%20Award%202025-gold?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Award" />
+  <img src="https://img.shields.io/badge/SITER-Best%20Research%20Paper%202024-green?style=for-the-badge&logo=researchgate&logoColor=white" alt="SITER Award" />
+</p>
 
-- **IEEE Best Paper Award** - IEEE Conference 2025, Malaysia
-- **Best Research Paper** - SITER Conference 2024, India
+🏅 **IEEE Best Paper Award** - International Conference 2025, Malaysia  
+🏅 **Best Research Paper** - SITER Conference 2024, India
 
-**🏆 Competitive Programming**
+### 🏆 Competitive Programming
 
-- **OCPC** - Oman Competitive Programming Contest (Top Performer)
-- **GPC** - Gulf Programming Contest (Excellent Ranking)
-- **DCPC** - Developer Competitive Programming Contest (Strong Performance)
-- **Local Competitions** - Multiple Top 3 finishes
+<p align="center">
+  <img src="https://img.shields.io/badge/OCPC-Top%20Performer-00C6FF?style=for-the-badge&logo=code&logoColor=white" alt="OCPC" />
+  <img src="https://img.shields.io/badge/GPC-Excellent%20Ranking-0072FF?style=for-the-badge&logo=trophy&logoColor=white" alt="GPC" />
+  <img src="https://img.shields.io/badge/DCPC-Strong%20Performance-00A8E8?style=for-the-badge&logo=medal&logoColor=white" alt="DCPC" />
+</p>
+
+🥇 **OCPC** - Oman Competitive Programming Contest (Top Performer)  
+🥈 **GPC** - Gulf Programming Contest (Excellent Ranking)  
+🥉 **DCPC** - Developer Competitive Programming Contest (Strong Performance)  
+🏆 **Local University Competitions** - Multiple Top 3 Finishes
 
 </div>
 
@@ -97,15 +105,40 @@ Open to collaborating on innovative tech solutions and open source projects
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-talalaidarus@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talalaidarus@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talal-al-aidarus-962a60276/?originalSubdomain=om)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Talal3idarus)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/talal3idarus/)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzOK72L-JTelK85jeMlXQrQ)
+### 💼 Professional
+
+<p align="center">
+  <a href="mailto:talalaidarus@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/talal-al-aidarus-962a60276/?originalSubdomain=om">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Talal3idarus">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+### 🎨 Social
+
+<p align="center">
+  <a href="https://www.instagram.com/talal3idarus/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCzOK72L-JTelK85jeMlXQrQ">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+
+### 📫 Quick Contact
+
+**📧 Email:** talalaidarus@gmail.com  
+**📍 Location:** Oman  
+**💼 Status:** Open to Opportunities
 
 </div>
 
