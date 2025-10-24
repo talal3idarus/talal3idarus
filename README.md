@@ -6,55 +6,46 @@
 <h3 align="center">🎓 Final-Year Software Engineering Student | AI & Web Development Enthusiast | IEEE Published Researcher</h3>
 
 <p align="center">
-  🎓 Studying at University of Technology and Applied Sciences (UTAS), Oman<br>
-  💻 Passionate about web development, database management, and competitive programming<br>
-  🏆 Top 3 finisher in programming competitions with 49+ teams<br>
-  📍 Based in Oman | Open to opportunities
+  University of Technology and Applied Sciences (UTAS), Oman<br>
+  Building innovative solutions through code and research
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack-Development-orange?style=for-the-badge&logo=code&logoColor=white" alt="Full-Stack" />
+  <img src="https://img.shields.io/badge/Mobile-Development-00C6FF?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile Development" />
+  <img src="https://img.shields.io/badge/Machine-Learning-purple?style=for-the-badge&logo=brain&logoColor=white" alt="Machine Learning" />
 </p>
 
 ---
 
 <h2 align="center">🏆 Research & Achievements</h2>
 
-<div align="center">
-
-### 📚 Publications & Awards
-
 <p align="center">
-  <img src="https://img.shields.io/badge/IEEE-Best%20Paper%20Award%202025-gold?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Award" />
-  <img src="https://img.shields.io/badge/SITER-Best%20Research%20Paper%202024-green?style=for-the-badge&logo=researchgate&logoColor=white" alt="SITER Award" />
+  <img src="https://img.shields.io/badge/📚_IEEE-Best_Paper_2025-FFD700?style=for-the-badge" alt="IEEE" />
+  <img src="https://img.shields.io/badge/📚_SITER-Best_Paper_2024-2ECC71?style=for-the-badge" alt="SITER" />
 </p>
 
-🏅 **IEEE Best Paper Award** - International Conference 2025, Malaysia  
-🏅 **Best Research Paper** - SITER Conference 2024, India
-
-### 🏆 Competitive Programming
-
 <p align="center">
-  <img src="https://img.shields.io/badge/OCPC-Top%20Performer-00C6FF?style=for-the-badge&logo=code&logoColor=white" alt="OCPC" />
-  <img src="https://img.shields.io/badge/GPC-Excellent%20Ranking-0072FF?style=for-the-badge&logo=trophy&logoColor=white" alt="GPC" />
-  <img src="https://img.shields.io/badge/DCPC-Strong%20Performance-00A8E8?style=for-the-badge&logo=medal&logoColor=white" alt="DCPC" />
+  <img src="https://img.shields.io/badge/🥇_OCPC-Top_Performer-00C6FF?style=for-the-badge" alt="OCPC" />
+  <img src="https://img.shields.io/badge/🥈_GPC-Excellent_Ranking-0072FF?style=for-the-badge" alt="GPC" />
+  <img src="https://img.shields.io/badge/🥉_DCPC-Strong_Performance-5DADE2?style=for-the-badge" alt="DCPC" />
 </p>
-
-🥇 **OCPC** - Oman Competitive Programming Contest (Top Performer)  
-🥈 **GPC** - Gulf Programming Contest (Excellent Ranking)  
-🥉 **DCPC** - Developer Competitive Programming Contest (Strong Performance)  
-🏆 **Local University Competitions** - Multiple Top 3 Finishes
-
-</div>
 
 ---
 
-## 🔥 Featured Projects
+<h2 align="center">🔥 Featured Projects</h2>
 
 <div align="center">
 
-- 🎯 **Pathfinder** - AI-powered career guidance platform for students
-- 🏠 **UTAS-hub** - University course resource management system
-- 🛒 **Home Grocery** - E-commerce platform with secure payment processing
-- 💧 **Aqua Sink Pro** - IoT-based water management solution
-- 💰 **The Original Prices** - Price comparison and tracking tool
-- 🤖 **AI Clustering Project** - Machine learning clustering algorithms implementation
+| Project | Description |
+|---------|-------------|
+| 💊 **Mdawi** | Flutter-based medication management app for elderly patients and chronic disease management |
+| 🎯 **Pathfinder** | AI-powered career guidance platform for students |
+| 🏠 **UTAS-hub** | University course resource management system |
+| 🛒 **Home Grocery** | E-commerce platform with secure payment processing |
+| 💧 **Aqua Sink Pro** | IoT-based water management solution |
+| 🍽️ **ShuffleBite** | Flutter-based meal planning app that eliminates meal decision fatigue |
+| 🤖 **AI Clustering Project** | Machine learning clustering algorithms implementation |
 
 </div>
 
@@ -81,25 +72,13 @@
 
 ### 🤖 Data Science & ML
 <p align="center">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
-
-</div>
-
----
-
-## 📚 Currently Exploring
-
-<div align="center">
-
-![Full-Stack Development](https://img.shields.io/badge/Full--Stack-Development-orange?style=for-the-badge&logo=code&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-purple?style=for-the-badge&logo=brain&logoColor=white)
-
-Building modern web applications & exploring ML techniques for real-world applications  
-Open to collaborating on innovative tech solutions and open source projects
 
 </div>
 
@@ -107,40 +86,27 @@ Open to collaborating on innovative tech solutions and open source projects
 
 <h2 align="center">🌐 Connect With Me</h2>
 
-<div align="center">
-
-### 💼 Professional
-
 <p align="center">
   <a href="mailto:talalaidarus@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/talal-al-aidarus-962a60276/?originalSubdomain=om">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Talal3idarus">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
-</p>
-
-### 🎨 Social
-
-<p align="center">
   <a href="https://www.instagram.com/talal3idarus/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/channel/UCzOK72L-JTelK85jeMlXQrQ">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="48" />
   </a>
 </p>
 
-### 📫 Quick Contact
-
-**📧 Email:** talalaidarus@gmail.com  
-**📍 Location:** Oman  
-**💼 Status:** Open to Opportunities
-
-</div>
+<p align="center">
+  📍 Oman | 💼 Open to Opportunities
+</p>
 
 ---
 
