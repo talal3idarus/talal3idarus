@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Machine-Learning-purple?style=for-the-badge&logo=brain&logoColor=white" alt="Machine Learning" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">🏆 Research & Achievements</h2>
 
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/🥉_DCPC-Strong_Performance-5DADE2?style=for-the-badge" alt="DCPC" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">🔥 Featured Projects</h2>
 
@@ -49,7 +49,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">💻 Tech Stack</h2>
 
@@ -82,7 +82,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">🌐 Connect With Me</h2>
 
@@ -108,7 +108,7 @@
   📍 Oman | 💼 Open to Opportunities
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">⚡ Activity</h2>
 <p align="center">
