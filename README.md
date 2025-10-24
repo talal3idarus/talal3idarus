@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Machine-Learning-purple?style=for-the-badge&logo=brain&logoColor=white" alt="Machine Learning" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header" width="100%">
 
 <h2 align="center">🏆 Research & Achievements</h2>
 
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/🥉_DCPC-Strong_Performance-FA5252?style=for-the-badge" alt="DCPC" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header" width="100%">
 
 <h2 align="center">🔥 Featured Projects</h2>
 
@@ -49,7 +49,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header" width="100%">
 
 <h2 align="center">💻 Tech Stack</h2>
 
@@ -82,7 +82,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header" width="100%">
 
 <h2 align="center">🌐 Connect With Me</h2>
 
@@ -108,11 +108,11 @@
   📍 Oman | 💼 Open to Opportunities
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header" width="100%">
 
 <h2 align="center">⚡ Activity</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Talal3idarus&theme=react-dark&hide_border=false&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Talal3idarus&custom_title=Contribution%20Graph&bg_color=0d1117&color=FF6B6B&line=C92A2A&point=FA5252&area=true&hide_border=false" alt="Activity Graph" />
 </p>
 
 <!-- Footer -->
