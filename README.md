@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=180&section=header&text=Talal%20Al-Aidarus&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" alt="Talal Al-Aidarus Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20B2AA,100:008B8B&height=180&section=header&text=Talal%20Al-Aidarus&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" alt="Talal Al-Aidarus Header" />
 </p>
 
 <h3 align="center">🎓 Final-Year Software Engineering Student | AI & Web Development Enthusiast | IEEE Published Researcher</h3>
@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack-Development-orange?style=for-the-badge&logo=code&logoColor=white" alt="Full-Stack" />
-  <img src="https://img.shields.io/badge/Mobile-Development-00C6FF?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile Development" />
+  <img src="https://img.shields.io/badge/Mobile-Development-20B2AA?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile Development" />
   <img src="https://img.shields.io/badge/Machine-Learning-purple?style=for-the-badge&logo=brain&logoColor=white" alt="Machine Learning" />
 </p>
 
@@ -26,9 +26,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🥇_OCPC-Top_Performer-00C6FF?style=for-the-badge" alt="OCPC" />
-  <img src="https://img.shields.io/badge/🥈_GPC-Excellent_Ranking-0072FF?style=for-the-badge" alt="GPC" />
-  <img src="https://img.shields.io/badge/🥉_DCPC-Strong_Performance-5DADE2?style=for-the-badge" alt="DCPC" />
+  <img src="https://img.shields.io/badge/🥇_OCPC-Top_Performer-20B2AA?style=for-the-badge" alt="OCPC" />
+  <img src="https://img.shields.io/badge/🥈_GPC-Excellent_Ranking-008B8B?style=for-the-badge" alt="GPC" />
+  <img src="https://img.shields.io/badge/🥉_DCPC-Strong_Performance-48D1CC?style=for-the-badge" alt="DCPC" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -117,5 +117,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:008B8B,100:20B2AA&height=120&section=footer" alt="Footer Wave" />
 </p>
