@@ -3,7 +3,7 @@
 </p>
 
 <p align="right">
-  <a href="./assets/cv/Talal-Al-Aidarus-CV.pdf"><img src="https://img.shields.io/badge/Download_CV-3FA79D?style=for-the-badge&logoColor=white" alt="Download CV" /></a>
+  <a href="https://raw.githubusercontent.com/talal3idarus/talal3idarus/main/assets/cv/Talal-Al-Aidarus-CV.pdf"><img src="https://img.shields.io/badge/Download_CV-3FA79D?style=for-the-badge&logoColor=white" alt="Download CV" /></a>
 </p>
 
 ---
