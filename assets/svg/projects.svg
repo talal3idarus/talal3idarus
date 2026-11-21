@@ -1,0 +1,149 @@
+<svg width="880" height="760" viewBox="0 0 880 760" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @font-face {
+      font-family: 'Instrument Serif';
+      src: url('../fonts/InstrumentSerif-Regular.woff2') format('woff2');
+      font-weight: 400;
+      font-style: normal;
+    }
+    .prise { opacity: 0; animation: prise .55s cubic-bezier(.2,.7,.3,1) forwards; }
+    .c0 { animation-delay: .06s } .c1 { animation-delay: .14s } .c2 { animation-delay: .22s }
+    .c3 { animation-delay: .30s } .c4 { animation-delay: .38s } .c5 { animation-delay: .46s }
+    .c6 { animation-delay: .54s } .c7 { animation-delay: .62s } .c8 { animation-delay: .70s }
+    .c9 { animation-delay: .78s } .c10 { animation-delay: .86s } .c11 { animation-delay: .94s } .c12 { animation-delay: 1.02s }
+    @keyframes prise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+    @media (prefers-reduced-motion: reduce) {
+      .prise { animation: none !important; opacity: 1 !important; transform: none !important; }
+    }
+    .h2 { font-family: 'Instrument Serif', Georgia, serif; font-size: 24px; fill: #ECEEEF; }
+    .pnum { font-family: 'Instrument Serif', Georgia, serif; font-size: 20px; fill: #3FA79D; }
+    .ptitle { font-family: Segoe UI, Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 700; fill: #ECEEEF; }
+    .pdesc { font-family: Segoe UI, Helvetica, Arial, sans-serif; font-size: 12px; fill: #8b949e; }
+    .card { fill: #11151c; stroke: #242932; stroke-width: 1; }
+  </style>
+
+  <text x="16" y="30" class="h2">Featured Projects</text>
+  <rect x="17" y="38" width="44" height="2" fill="#FB923C"/>
+
+  <!-- row 1: 2 cols, 412 wide x 152 tall, x=20,448 y=56 -->
+
+  <g class="prise c0">
+    <rect class="card" x="20" y="56" width="412" height="152" rx="6"/>
+    <text class="pnum" x="36" y="88">01</text>
+    <text class="ptitle" x="36" y="112">Mdawi</text>
+    <text class="pdesc" x="36" y="136">A smart health app for elderly and chronic disease</text>
+    <text class="pdesc" x="36" y="154">patients, combining personalised medication reminders</text>
+    <text class="pdesc" x="36" y="172">with Omani-dialect voice alerts, appointment tracking,</text>
+    <text class="pdesc" x="36" y="190">predictive adherence insights, and caregiver dashboards.</text>
+  </g>
+
+  <g class="prise c1">
+    <rect class="card" x="448" y="56" width="412" height="152" rx="6"/>
+    <text class="pnum" x="464" y="88">02</text>
+    <text class="ptitle" x="464" y="112">UTAS-hub</text>
+    <text class="pdesc" x="464" y="136">A university-wide platform connecting over 3,000</text>
+    <text class="pdesc" x="464" y="154">students at UTAS with course summaries, campus</text>
+    <text class="pdesc" x="464" y="172">events, and shared academic resources &#8212; built to</text>
+    <text class="pdesc" x="464" y="190">make everyday student life easier to navigate.</text>
+  </g>
+
+  <!-- row 2: 2 cols, 412 wide x 152 tall, x=20,448 y=222 -->
+
+  <g class="prise c2">
+    <rect class="card" x="20" y="222" width="412" height="152" rx="6"/>
+    <text class="pnum" x="36" y="254">03</text>
+    <text class="ptitle" x="36" y="278">Nasaq</text>
+    <text class="pdesc" x="36" y="302">An AI-powered port operations platform turning</text>
+    <text class="pdesc" x="36" y="320">infrastructure into real-time intelligence &#8212; vehicle</text>
+    <text class="pdesc" x="36" y="338">tracking, congestion monitoring, and CO2 visibility.</text>
+    <text class="pdesc" x="36" y="356">2nd place among 900+ ideas at the SOHAR hackathon.</text>
+  </g>
+
+  <g class="prise c3">
+    <rect class="card" x="448" y="222" width="412" height="152" rx="6"/>
+    <text class="pnum" x="464" y="254">04</text>
+    <text class="ptitle" x="464" y="278">Wasl-AI</text>
+    <text class="pdesc" x="464" y="302">A WhatsApp AI assistant automating scheduling,</text>
+    <text class="pdesc" x="464" y="320">email, and CRM tasks, with Gmail/Calendar sync,</text>
+    <text class="pdesc" x="464" y="338">FAQ handling, and an operator dashboard. Winner of</text>
+    <text class="pdesc" x="464" y="356">the Omantel AI Hackathon, Rising Omani Startups.</text>
+  </g>
+
+  <!-- row 3: 3 cols, 269 wide x 112 tall, x=20,305,590 y=388 -->
+
+  <g class="prise c4">
+    <rect class="card" x="20" y="388" width="269" height="112" rx="6"/>
+    <text class="pnum" x="36" y="420">05</text>
+    <text class="ptitle" x="36" y="444">Pathfinder</text>
+    <text class="pdesc" x="36" y="468">AI-powered career guidance</text>
+    <text class="pdesc" x="36" y="486">platform for students</text>
+  </g>
+
+  <g class="prise c5">
+    <rect class="card" x="305" y="388" width="269" height="112" rx="6"/>
+    <text class="pnum" x="321" y="420">06</text>
+    <text class="ptitle" x="321" y="444">Home Grocery</text>
+    <text class="pdesc" x="321" y="468">E-commerce platform with secure</text>
+    <text class="pdesc" x="321" y="486">payment processing</text>
+  </g>
+
+  <g class="prise c6">
+    <rect class="card" x="590" y="388" width="269" height="112" rx="6"/>
+    <text class="pnum" x="606" y="420">07</text>
+    <text class="ptitle" x="606" y="444">Aqua Sink Pro</text>
+    <text class="pdesc" x="606" y="468">IoT-based water management</text>
+    <text class="pdesc" x="606" y="486">solution</text>
+  </g>
+
+  <!-- row 4: 3 cols, 269 wide x 112 tall, x=20,305,590 y=514 -->
+
+  <g class="prise c7">
+    <rect class="card" x="20" y="514" width="269" height="112" rx="6"/>
+    <text class="pnum" x="36" y="546">08</text>
+    <text class="ptitle" x="36" y="570">ShuffleBite</text>
+    <text class="pdesc" x="36" y="594">Flutter meal planning app that</text>
+    <text class="pdesc" x="36" y="612">ends decision fatigue</text>
+  </g>
+
+  <g class="prise c8">
+    <rect class="card" x="305" y="514" width="269" height="112" rx="6"/>
+    <text class="pnum" x="321" y="546">09</text>
+    <text class="ptitle" x="321" y="570">AI Clustering</text>
+    <text class="pdesc" x="321" y="594">Machine learning clustering</text>
+    <text class="pdesc" x="321" y="612">algorithms implementation</text>
+  </g>
+
+  <g class="prise c9">
+    <rect class="card" x="590" y="514" width="269" height="112" rx="6"/>
+    <text class="pnum" x="606" y="546">10</text>
+    <text class="ptitle" x="606" y="570">Voice Identity Shield</text>
+    <text class="pdesc" x="606" y="594">AI-powered voice identity</text>
+    <text class="pdesc" x="606" y="612">verification &amp; security</text>
+  </g>
+
+  <!-- row 5: 3 cols, 269 wide x 112 tall, x=20,305,590 y=640 -->
+
+  <g class="prise c10">
+    <rect class="card" x="20" y="640" width="269" height="112" rx="6"/>
+    <text class="pnum" x="36" y="672">11</text>
+    <text class="ptitle" x="36" y="696">Sasa</text>
+    <text class="pdesc" x="36" y="720">Desktop AI assistant that executes</text>
+    <text class="pdesc" x="36" y="738">tasks via natural language</text>
+  </g>
+
+  <g class="prise c11">
+    <rect class="card" x="305" y="640" width="269" height="112" rx="6"/>
+    <text class="pnum" x="321" y="672">12</text>
+    <text class="ptitle" x="321" y="696">ZiraTech</text>
+    <text class="pdesc" x="321" y="720">Agri-tech marketplace with AI</text>
+    <text class="pdesc" x="321" y="738">plant scanner for crop health</text>
+  </g>
+
+  <g class="prise c12">
+    <rect class="card" x="590" y="640" width="269" height="112" rx="6"/>
+    <text class="pnum" x="606" y="672">13</text>
+    <text class="ptitle" x="606" y="696">BankSohar File Manager</text>
+    <text class="pdesc" x="606" y="720">OCR-backed document</text>
+    <text class="pdesc" x="606" y="738">management &amp; automated filing</text>
+  </g>
+</svg>

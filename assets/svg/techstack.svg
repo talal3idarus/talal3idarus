@@ -1,0 +1,78 @@
+<svg width="880" height="500" viewBox="0 0 880 500" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @font-face {
+      font-family: 'Instrument Serif';
+      src: url('../fonts/InstrumentSerif-Regular.woff2') format('woff2');
+      font-weight: 400;
+      font-style: normal;
+    }
+    .tile { opacity: 0; animation: tileIn .5s cubic-bezier(.2,.7,.3,1) forwards; }
+    .chip { opacity: 0; animation: chipIn .35s ease-out forwards; }
+    @keyframes tileIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes chipIn { from { opacity: 0; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .tile, .chip { animation: none !important; opacity: 1 !important; transform: none !important; }
+    }
+    .h2 { font-family: 'Instrument Serif', Georgia, serif; font-size: 24px; fill: #ECEEEF; }
+    text.lbl { font-family: Segoe UI, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; text-anchor: middle; fill: #d8dadd; }
+    text.cat { font-family: Segoe UI, Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 700; letter-spacing: 1.4px; fill: #ECEEEF; }
+    .card { fill: #11151c; stroke: #242932; stroke-width: 1; }
+    .chipRect { fill: none; stroke: #3FA79D; stroke-opacity: .55; stroke-width: 1; }
+  </style>
+
+  <text x="16" y="30" class="h2">Tech Stack</text>
+  <rect x="17" y="38" width="44" height="2" fill="#FB923C"/>
+
+  <!-- Languages: 410x230 (4 chip rows), x=20 y=56 -->
+  <g class="tile" style="animation-delay:.08s">
+    <rect class="card" x="20" y="56" width="410" height="230" rx="8"/>
+    <text class="cat" x="36" y="82">LANGUAGES</text>
+    <rect x="36" y="90" width="22" height="1" fill="#FB923C"/>
+  </g>
+  <g class="chip" style="animation-delay:.18s"><rect class="chipRect" x="36" y="110" width="183" height="34" rx="17"/><text class="lbl" x="127.5" y="131">C++</text></g>
+  <g class="chip" style="animation-delay:.20s"><rect class="chipRect" x="231" y="110" width="183" height="34" rx="17"/><text class="lbl" x="322.5" y="131">Java</text></g>
+  <g class="chip" style="animation-delay:.22s"><rect class="chipRect" x="36" y="152" width="183" height="34" rx="17"/><text class="lbl" x="127.5" y="173">JavaScript</text></g>
+  <g class="chip" style="animation-delay:.24s"><rect class="chipRect" x="231" y="152" width="183" height="34" rx="17"/><text class="lbl" x="322.5" y="173">Python</text></g>
+  <g class="chip" style="animation-delay:.26s"><rect class="chipRect" x="36" y="194" width="183" height="34" rx="17"/><text class="lbl" x="127.5" y="215">PHP</text></g>
+  <g class="chip" style="animation-delay:.28s"><rect class="chipRect" x="231" y="194" width="183" height="34" rx="17"/><text class="lbl" x="322.5" y="215">HTML</text></g>
+  <g class="chip" style="animation-delay:.30s"><rect class="chipRect" x="36" y="236" width="183" height="34" rx="17"/><text class="lbl" x="127.5" y="257">CSS</text></g>
+
+  <!-- Frameworks: 410x188 (3 chip rows), x=450 y=56 -->
+  <g class="tile" style="animation-delay:.14s">
+    <rect class="card" x="450" y="56" width="410" height="188" rx="8"/>
+    <text class="cat" x="466" y="82">FRAMEWORKS</text>
+    <rect x="466" y="90" width="22" height="1" fill="#FB923C"/>
+  </g>
+  <g class="chip" style="animation-delay:.24s"><rect class="chipRect" x="466" y="110" width="183" height="34" rx="17"/><text class="lbl" x="557.5" y="131">React</text></g>
+  <g class="chip" style="animation-delay:.26s"><rect class="chipRect" x="661" y="110" width="183" height="34" rx="17"/><text class="lbl" x="752.5" y="131">Next.js</text></g>
+  <g class="chip" style="animation-delay:.28s"><rect class="chipRect" x="466" y="152" width="183" height="34" rx="17"/><text class="lbl" x="557.5" y="173">Flutter</text></g>
+  <g class="chip" style="animation-delay:.30s"><rect class="chipRect" x="661" y="152" width="183" height="34" rx="17"/><text class="lbl" x="752.5" y="173">Node.js</text></g>
+  <g class="chip" style="animation-delay:.32s"><rect class="chipRect" x="466" y="194" width="183" height="34" rx="17"/><text class="lbl" x="557.5" y="215">Vite</text></g>
+  <g class="chip" style="animation-delay:.34s"><rect class="chipRect" x="661" y="194" width="183" height="34" rx="17"/><text class="lbl" x="752.5" y="215">Tailwind CSS</text></g>
+
+  <!-- Tools: 410x188 (3 chip rows), x=20 y=300 -->
+  <g class="tile" style="animation-delay:.20s">
+    <rect class="card" x="20" y="300" width="410" height="188" rx="8"/>
+    <text class="cat" x="36" y="326">TOOLS</text>
+    <rect x="36" y="334" width="22" height="1" fill="#FB923C"/>
+  </g>
+  <g class="chip" style="animation-delay:.30s"><rect class="chipRect" x="36" y="354" width="183" height="34" rx="17"/><text class="lbl" x="127.5" y="375">Firebase</text></g>
+  <g class="chip" style="animation-delay:.32s"><rect class="chipRect" x="231" y="354" width="183" height="34" rx="17"/><text class="lbl" x="322.5" y="375">MongoDB</text></g>
+  <g class="chip" style="animation-delay:.34s"><rect class="chipRect" x="36" y="396" width="183" height="34" rx="17"/><text class="lbl" x="127.5" y="417">Git</text></g>
+  <g class="chip" style="animation-delay:.36s"><rect class="chipRect" x="231" y="396" width="183" height="34" rx="17"/><text class="lbl" x="322.5" y="417">GitHub</text></g>
+  <g class="chip" style="animation-delay:.38s"><rect class="chipRect" x="36" y="438" width="183" height="34" rx="17"/><text class="lbl" x="127.5" y="459">Figma</text></g>
+  <g class="chip" style="animation-delay:.40s"><rect class="chipRect" x="231" y="438" width="183" height="34" rx="17"/><text class="lbl" x="322.5" y="459">VS Code</text></g>
+
+  <!-- Data Science & ML: 410x188 (3 chip rows), x=450 y=300 -->
+  <g class="tile" style="animation-delay:.26s">
+    <rect class="card" x="450" y="300" width="410" height="188" rx="8"/>
+    <text class="cat" x="466" y="326">DATA SCIENCE</text>
+    <rect x="466" y="334" width="22" height="1" fill="#FB923C"/>
+  </g>
+  <g class="chip" style="animation-delay:.36s"><rect class="chipRect" x="466" y="354" width="183" height="34" rx="17"/><text class="lbl" x="557.5" y="375">Pandas</text></g>
+  <g class="chip" style="animation-delay:.38s"><rect class="chipRect" x="661" y="354" width="183" height="34" rx="17"/><text class="lbl" x="752.5" y="375">NumPy</text></g>
+  <g class="chip" style="animation-delay:.40s"><rect class="chipRect" x="466" y="396" width="183" height="34" rx="17"/><text class="lbl" x="557.5" y="417">Scikit-learn</text></g>
+  <g class="chip" style="animation-delay:.42s"><rect class="chipRect" x="661" y="396" width="183" height="34" rx="17"/><text class="lbl" x="752.5" y="417">Matplotlib</text></g>
+  <g class="chip" style="animation-delay:.44s"><rect class="chipRect" x="466" y="438" width="183" height="34" rx="17"/><text class="lbl" x="557.5" y="459">Plotly</text></g>
+  <g class="chip" style="animation-delay:.46s"><rect class="chipRect" x="661" y="438" width="183" height="34" rx="17"/><text class="lbl" x="752.5" y="459">Jupyter</text></g>
+</svg>

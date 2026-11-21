@@ -1,0 +1,59 @@
+<svg width="880" height="224" viewBox="0 0 880 224" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0d10"/>
+      <stop offset="100%" stop-color="#14171c"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    @font-face {
+      font-family: 'Instrument Serif';
+      src: url('../fonts/InstrumentSerif-Regular.woff2') format('woff2');
+      font-weight: 400;
+      font-style: normal;
+    }
+    .rise { opacity: 0; animation: rise .6s cubic-bezier(.2,.7,.3,1) forwards; }
+    .fade { opacity: 0; animation: fadeIn .7s ease-out forwards; }
+    .d1 { animation-delay: .05s }
+    .d2 { animation-delay: .35s }
+    .d3 { animation-delay: .5s }
+    .d4 { animation-delay: .62s }
+    .d5 { animation-delay: .78s }
+    .d6 { animation-delay: .86s }
+    .d7 { animation-delay: .98s }
+    .d8 { animation-delay: 1.08s }
+    @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .rise, .fade { animation: none !important; opacity: 1 !important; transform: none !important; }
+    }
+    .name { font-family: 'Instrument Serif', Georgia, serif; font-size: 50px; fill: #ECEEEF; }
+    .lbl { font-family: Segoe UI, Helvetica, Arial, sans-serif; font-size: 10px; font-weight: 600; letter-spacing: 1.6px; fill: #b9c2c3; }
+  </style>
+
+  <rect width="880" height="224" rx="4" fill="url(#bgGrad)"/>
+  <rect x="0.5" y="0.5" width="879" height="223" rx="4" fill="none" stroke="#3FA79D" stroke-opacity="0.3" stroke-width="1"/>
+
+  <g class="rise d1">
+    <text x="44" y="94" class="name">Talal Al-Aidarus</text>
+  </g>
+  <rect class="rise d2" x="45" y="106" width="44" height="2" fill="#FB923C"/>
+
+  <text class="fade d3" x="45" y="128" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#9aa0a8">Full-Stack Software Engineer &#8212; Darrbak, Muscat</text>
+  <text class="fade d4" x="45" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6f747c">Shipping production web &amp; mobile products for the Omani market &#8212;</text>
+  <text class="fade d4" x="45" y="168" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6f747c">IEEE-published researcher with four hackathon wins.</text>
+
+  <g class="fade d6">
+    <rect x="45" y="184" width="108" height="23" rx="2" fill="none" stroke="#3FA79D" stroke-opacity="0.55" stroke-width="1"/>
+    <text class="lbl" x="99" y="199" text-anchor="middle">FULL-STACK</text>
+  </g>
+  <g class="fade d7">
+    <rect x="161" y="184" width="92" height="23" rx="2" fill="none" stroke="#3FA79D" stroke-opacity="0.55" stroke-width="1"/>
+    <text class="lbl" x="207" y="199" text-anchor="middle">MOBILE</text>
+  </g>
+  <g class="fade d8">
+    <rect x="261" y="184" width="162" height="23" rx="2" fill="none" stroke="#3FA79D" stroke-opacity="0.55" stroke-width="1"/>
+    <text class="lbl" x="342" y="199" text-anchor="middle">MACHINE LEARNING</text>
+  </g>
+</svg>
