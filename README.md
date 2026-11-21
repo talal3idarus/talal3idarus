@@ -3,7 +3,7 @@
 </p>
 
 <p align="right">
-  <a href="https://raw.githubusercontent.com/talal3idarus/talal3idarus/main/assets/cv/Talal-Al-Aidarus-CV.pdf"><img src="https://img.shields.io/badge/Download_CV-3FA79D?style=for-the-badge&logoColor=white" alt="Download CV" /></a>
+  <a href="https://raw.githubusercontent.com/talal3idarus/talal3idarus/main/assets/cv/Talal-Al-Aidarus-CV.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Download_CV-3FA79D?style=for-the-badge&logoColor=white" alt="Download CV" /></a>
 </p>
 
 ---
@@ -29,11 +29,11 @@
 <h3 align="center">Connect</h3>
 
 <p align="center">
-  <a href="mailto:talalaidarus@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/talal-al-aidarus-962a60276/?originalSubdomain=om"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://github.com/Talal3idarus"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-  <a href="https://www.instagram.com/talal3idarus/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-  <a href="https://www.youtube.com/channel/UCzOK72L-JTelK85jeMlXQrQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="48" /></a>
+  <a href="mailto:talalaidarus@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/talal-al-aidarus-962a60276/?originalSubdomain=om" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/Talal3idarus" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/talal3idarus/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/channel/UCzOK72L-JTelK85jeMlXQrQ" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="48" /></a>
 </p>
 
 <p align="center"><sub>Oman&nbsp;&nbsp;&middot;&nbsp;&nbsp;Open to opportunities</sub></p>
