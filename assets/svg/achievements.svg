@@ -7,8 +7,8 @@
       font-style: normal;
     }
     .rise { opacity: 0; animation: rise .55s cubic-bezier(.2,.7,.3,1) forwards; }
-    .a0 { animation-delay: .06s } .a1 { animation-delay: .14s } .a2 { animation-delay: .22s } .a3 { animation-delay: .30s }
-    .a4 { animation-delay: .38s } .a5 { animation-delay: .46s } .a6 { animation-delay: .54s }
+    .a0 { animation-delay: .06s } .a1 { animation-delay: .14s } .a2 { animation-delay: .22s }
+    .a3 { animation-delay: .30s } .a4 { animation-delay: .38s } .a5 { animation-delay: .46s } .a6 { animation-delay: .54s }
     @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
     @media (prefers-reduced-motion: reduce) {
       .rise { animation: none !important; opacity: 1 !important; transform: none !important; }
@@ -23,54 +23,56 @@
   <text x="16" y="30" class="h2">Research &amp; Achievements</text>
   <rect x="17" y="38" width="44" height="2" fill="#FB923C"/>
 
-  <!-- card template: 198x78, cols x=20,234,448,662 rows y=56,148 -->
+  <!-- row 1: 3 cols, 269 wide x 78 tall, x=20,305,590 y=56 -->
 
   <g class="rise a0">
-    <rect class="card" x="20" y="56" width="198" height="78" rx="6"/>
-    <text class="acr" x="119" y="80">SOHAR</text>
-    <text class="award" x="119" y="98">2nd Place</text>
-    <text class="desc" x="119" y="114">2026 &#183; Nasaq</text>
+    <rect class="card" x="20" y="56" width="269" height="78" rx="6"/>
+    <text class="acr" x="154" y="80">SOHAR</text>
+    <text class="award" x="154" y="98">2nd Place</text>
+    <text class="desc" x="154" y="114">2026 &#183; Nasaq</text>
   </g>
 
   <g class="rise a1">
-    <rect class="card" x="234" y="56" width="198" height="78" rx="6"/>
-    <text class="acr" x="333" y="80">OMANTEL</text>
-    <text class="award" x="333" y="98">Winner</text>
-    <text class="desc" x="333" y="114">2025 &#183; Wasl-AI</text>
+    <rect class="card" x="305" y="56" width="269" height="78" rx="6"/>
+    <text class="acr" x="439" y="80">OMANTEL</text>
+    <text class="award" x="439" y="98">Winner</text>
+    <text class="desc" x="439" y="114">2025 &#183; Wasl-AI</text>
   </g>
 
   <g class="rise a2">
-    <rect class="card" x="448" y="56" width="198" height="78" rx="6"/>
-    <text class="acr" x="547" y="80">MULHIM</text>
-    <text class="award" x="547" y="98">Best Applicable Project</text>
-    <text class="desc" x="547" y="114">2025 &#183; Mdawi</text>
+    <rect class="card" x="590" y="56" width="269" height="78" rx="6"/>
+    <text class="acr" x="724" y="80">MULHIM</text>
+    <text class="award" x="724" y="98">Best Applicable Project</text>
+    <text class="desc" x="724" y="114">2025 &#183; Mdawi</text>
   </g>
 
+  <!-- row 2: 4 cols, 198 wide x 78 tall, x=20,234,448,662 y=148 -->
+
   <g class="rise a3">
-    <rect class="card" x="662" y="56" width="198" height="78" rx="6"/>
-    <text class="acr" x="761" y="80">ICCBE</text>
-    <text class="award" x="761" y="98">Best Conference Paper</text>
-    <text class="desc" x="761" y="114">2025 &#183; IEEE</text>
+    <rect class="card" x="20" y="148" width="198" height="78" rx="6"/>
+    <text class="acr" x="119" y="172">ICCBE</text>
+    <text class="award" x="119" y="190">Best Conference Paper</text>
+    <text class="desc" x="119" y="206">2025 &#183; IEEE</text>
   </g>
 
   <g class="rise a4">
-    <rect class="card" x="20" y="148" width="198" height="78" rx="6"/>
-    <text class="acr" x="119" y="172">PYHACK</text>
-    <text class="award" x="119" y="190">2nd Place</text>
-    <text class="desc" x="119" y="206">2025 &#183; GCET</text>
+    <rect class="card" x="234" y="148" width="198" height="78" rx="6"/>
+    <text class="acr" x="333" y="172">PYHACK</text>
+    <text class="award" x="333" y="190">2nd Place</text>
+    <text class="desc" x="333" y="206">2025 &#183; GCET</text>
   </g>
 
   <g class="rise a5">
-    <rect class="card" x="234" y="148" width="198" height="78" rx="6"/>
-    <text class="acr" x="333" y="172">DHOFAR</text>
-    <text class="award" x="333" y="190">Top 3 of 49+</text>
-    <text class="desc" x="333" y="206">2024 &#183; CPC</text>
+    <rect class="card" x="448" y="148" width="198" height="78" rx="6"/>
+    <text class="acr" x="547" y="172">DHOFAR</text>
+    <text class="award" x="547" y="190">Top 3 of 49+</text>
+    <text class="desc" x="547" y="206">2024 &#183; CPC</text>
   </g>
 
   <g class="rise a6">
-    <rect class="card" x="448" y="148" width="198" height="78" rx="6"/>
-    <text class="acr" x="547" y="172">IEEE</text>
-    <text class="award" x="547" y="190">Best Research Paper</text>
-    <text class="desc" x="547" y="206">2024 &#183; Aqua Sink Pro</text>
+    <rect class="card" x="662" y="148" width="198" height="78" rx="6"/>
+    <text class="acr" x="761" y="172">IEEE</text>
+    <text class="award" x="761" y="190">Best Research Paper</text>
+    <text class="desc" x="761" y="206">2024 &#183; Aqua Sink Pro</text>
   </g>
 </svg>

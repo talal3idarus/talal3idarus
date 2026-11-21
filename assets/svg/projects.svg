@@ -78,17 +78,17 @@
   <g class="prise c5">
     <rect class="card" x="305" y="356" width="269" height="112" rx="6"/>
     <text class="pnum" x="321" y="388">06</text>
-    <text class="ptitle" x="321" y="412">Home Grocery</text>
-    <text class="pdesc" x="321" y="436">E-commerce platform with secure</text>
-    <text class="pdesc" x="321" y="454">payment processing</text>
+    <text class="ptitle" x="321" y="412">ZiraTech</text>
+    <text class="pdesc" x="321" y="436">Agri-tech marketplace with AI</text>
+    <text class="pdesc" x="321" y="454">plant scanner for crop health</text>
   </g>
 
   <g class="prise c6">
     <rect class="card" x="590" y="356" width="269" height="112" rx="6"/>
     <text class="pnum" x="606" y="388">07</text>
-    <text class="ptitle" x="606" y="412">Aqua Sink Pro</text>
-    <text class="pdesc" x="606" y="436">IoT-based water management</text>
-    <text class="pdesc" x="606" y="454">solution</text>
+    <text class="ptitle" x="606" y="412">Voice Identity Shield</text>
+    <text class="pdesc" x="606" y="436">AI-powered voice identity</text>
+    <text class="pdesc" x="606" y="454">verification &amp; security</text>
   </g>
 
   <!-- row 4: 3 cols, 269 wide x 112 tall, x=20,305,590 y=482 -->
@@ -96,25 +96,25 @@
   <g class="prise c7">
     <rect class="card" x="20" y="482" width="269" height="112" rx="6"/>
     <text class="pnum" x="36" y="514">08</text>
-    <text class="ptitle" x="36" y="538">ShuffleBite</text>
-    <text class="pdesc" x="36" y="562">Flutter meal planning app that</text>
-    <text class="pdesc" x="36" y="580">ends decision fatigue</text>
+    <text class="ptitle" x="36" y="538">Aqua Sink Pro</text>
+    <text class="pdesc" x="36" y="562">IoT-based water management</text>
+    <text class="pdesc" x="36" y="580">solution</text>
   </g>
 
   <g class="prise c8">
     <rect class="card" x="305" y="482" width="269" height="112" rx="6"/>
     <text class="pnum" x="321" y="514">09</text>
-    <text class="ptitle" x="321" y="538">AI Clustering</text>
-    <text class="pdesc" x="321" y="562">Machine learning clustering</text>
-    <text class="pdesc" x="321" y="580">algorithms implementation</text>
+    <text class="ptitle" x="321" y="538">BankSohar File Manager</text>
+    <text class="pdesc" x="321" y="562">OCR-backed document</text>
+    <text class="pdesc" x="321" y="580">management &amp; automated filing</text>
   </g>
 
   <g class="prise c9">
     <rect class="card" x="590" y="482" width="269" height="112" rx="6"/>
     <text class="pnum" x="606" y="514">10</text>
-    <text class="ptitle" x="606" y="538">Voice Identity Shield</text>
-    <text class="pdesc" x="606" y="562">AI-powered voice identity</text>
-    <text class="pdesc" x="606" y="580">verification &amp; security</text>
+    <text class="ptitle" x="606" y="538">AI Clustering</text>
+    <text class="pdesc" x="606" y="562">Machine learning clustering</text>
+    <text class="pdesc" x="606" y="580">algorithms implementation</text>
   </g>
 
   <!-- row 5: 3 cols, 269 wide x 112 tall, x=20,305,590 y=608 -->
@@ -122,24 +122,24 @@
   <g class="prise c10">
     <rect class="card" x="20" y="608" width="269" height="112" rx="6"/>
     <text class="pnum" x="36" y="640">11</text>
-    <text class="ptitle" x="36" y="664">Sasa</text>
-    <text class="pdesc" x="36" y="688">Desktop AI assistant that executes</text>
-    <text class="pdesc" x="36" y="706">tasks via natural language</text>
+    <text class="ptitle" x="36" y="664">Home Grocery</text>
+    <text class="pdesc" x="36" y="688">E-commerce platform with secure</text>
+    <text class="pdesc" x="36" y="706">payment processing</text>
   </g>
 
   <g class="prise c11">
     <rect class="card" x="305" y="608" width="269" height="112" rx="6"/>
     <text class="pnum" x="321" y="640">12</text>
-    <text class="ptitle" x="321" y="664">ZiraTech</text>
-    <text class="pdesc" x="321" y="688">Agri-tech marketplace with AI</text>
-    <text class="pdesc" x="321" y="706">plant scanner for crop health</text>
+    <text class="ptitle" x="321" y="664">ShuffleBite</text>
+    <text class="pdesc" x="321" y="688">Flutter meal planning app that</text>
+    <text class="pdesc" x="321" y="706">ends decision fatigue</text>
   </g>
 
   <g class="prise c12">
     <rect class="card" x="590" y="608" width="269" height="112" rx="6"/>
     <text class="pnum" x="606" y="640">13</text>
-    <text class="ptitle" x="606" y="664">BankSohar File Manager</text>
-    <text class="pdesc" x="606" y="688">OCR-backed document</text>
-    <text class="pdesc" x="606" y="706">management &amp; automated filing</text>
+    <text class="ptitle" x="606" y="664">Sasa</text>
+    <text class="pdesc" x="606" y="688">Desktop AI assistant that executes</text>
+    <text class="pdesc" x="606" y="706">tasks via natural language</text>
   </g>
 </svg>
